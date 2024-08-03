@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import Parent from "./components/Parent.vue";
+import Test from "./components/Test.vue";
 </script>
 
 <template>
   <div>
-    <Parent />
+    <Test />
   </div>
 </template>
